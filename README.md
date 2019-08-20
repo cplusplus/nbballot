@@ -1,2 +1,2 @@
 # nbballot
-Handling of NB comments in response to ballots
+Use issues to track NB comments in response to ballots.
