@@ -9,7 +9,8 @@ comment, that group’s chair adds a comment to the corresponding GitHub issue
 reading something like: “LEWG in Belfast: Needs revision.” or “EWG in Belfast:
 Approved for C++20.” or “SG99 in Belfast: Recommend to reject.” Adding a link
 to the wiki page is appreciated. As per ISO guidance, do not quote discussion
-details.
+details. Quoting numeric poll results is far less important than clearly stating
+the net outcome.
 * GitHub issue labels: When your group is done with an issue, de-assign your
 group’s label and, if it was not rejected for further progress, assign the label(s)
 of the next group(s) to look at the paper. (SGs never reject, they always
